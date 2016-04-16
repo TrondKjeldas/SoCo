@@ -9,6 +9,8 @@ people`_ at its `GitHub repository`_
 For more background on the project, please see Rahim's `blog post
 <http://www.hirahim.com/blog/2012/04/29/dissecting-the-sonos-controller/>`_.
 
+Visit the `SoCo documentation`_ for a more detailed overview of all the functionailty.
+
 .. image:: https://travis-ci.org/SoCo/SoCo.svg?branch=master
    :target: https://travis-ci.org/SoCo/SoCo
    :alt: Build Status
@@ -17,11 +19,11 @@ For more background on the project, please see Rahim's `blog post
    :target: https://requires.io/github/SoCo/SoCo/requirements/?branch=master
    :alt: Requirements Status
 
-.. image:: https://pypip.in/download/soco/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/v/soco.svg?style=flat
     :target: https://pypi.python.org/pypi/soco/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/version/soco/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/dm/soco.svg?style=flat
     :target: https://pypi.python.org/pypi/soco/
     :alt: Number of PyPI downloads
 
@@ -212,3 +214,4 @@ SoCo is released under the `MIT license`_.
 .. _GitHub repository: https://github.com/SoCo/SoCo
 .. _team of people: https://github.com/SoCo/SoCo/blob/master/AUTHORS.rst
 .. _Google Groups: https://groups.google.com/forum/#!forum/python-soco
+.. _SoCo documentation: https://soco.readthedocs.org/en/latest/
